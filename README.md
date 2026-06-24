@@ -27,8 +27,21 @@ Outputs
 
 
 Hourly prediction table for today or any target date
+
+<img width="472" height="610" alt="image" src="https://github.com/user-attachments/assets/0e787470-bb04-41e3-8003-28504d499f86" />
+
+<img width="1492" height="605" alt="image" src="https://github.com/user-attachments/assets/f7272e83-60ee-46a8-ae5a-da97b28cf84f" />
+
 14-day historical chart + today's observed vs predicted bar chart
+
+<img width="1570" height="576" alt="image" src="https://github.com/user-attachments/assets/59bd8cd6-563f-4f04-9049-06cea5921ba2" />
+
+<img width="1582" height="566" alt="image" src="https://github.com/user-attachments/assets/52d1fd36-e3d9-4c20-8d1f-f4e68574ddb1" />
+
 Accuracy summary for all 41+ consumers
+
+<img width="1760" height="585" alt="image" src="https://github.com/user-attachments/assets/0ddcfabe-28c5-4b01-a778-421937b3baf6" />
+
 JSON file with observed and predicted values per consumer
 
 
@@ -53,6 +66,8 @@ Configuration
 pythonMSN         = '67000509'    # Consumer meter number
 TRAIN_START = '2025-01-01' # Start of training data
 TARGET_DATE = '2026-06-20' # Date to forecast
+
+
 
 
 
